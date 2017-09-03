@@ -19,14 +19,14 @@ avatar: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14992034_606252579561338_8
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/shinya.yamamoto.7106
+  facebook: shinya.yamamoto.7106
   flickr:
-  github: https://github.com/ymmtshny
-  instagram: https://www.instagram.com/ymmtshnyview/
+  github: ymmtshny
+  instagram: ymmtshnyview
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: #jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
